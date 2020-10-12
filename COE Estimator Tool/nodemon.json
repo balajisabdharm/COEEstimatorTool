@@ -1,0 +1,7 @@
+{
+    "env": {
+        "MONGO_ATLAS_PW": "dbadmin",
+        "MONGO_ATLAS_USER": "dbadmin",
+        "MONGO_ATLAS_DBNAME": "dbadmin"
+    }
+}
